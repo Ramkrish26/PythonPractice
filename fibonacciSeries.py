@@ -1,6 +1,6 @@
 # To generate the fibinacci series
 
-num = input("Enter the number: ")
+num = 5
 num1 = 0
 num2 = 1
 
